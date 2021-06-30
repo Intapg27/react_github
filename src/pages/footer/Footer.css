@@ -1,0 +1,35 @@
+.nav{
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+}
+
+
+.nav ul{
+    background-color: #A4542C;
+    padding: 1px;
+    color: #FAD0B7;
+    list-style: none;
+    border-radius: 10px;
+
+}
+
+.nav ul li{
+    display: inline-block;
+    margin-right: 150px;
+}
+
+.nav ul li:hover{
+    background-color: #A4542C;
+    color: #93FFE8;
+}
+
+.nav h3{
+    color: #FAD0B7;
+    padding: 10px;
+}
+
+.nav .datos{
+    color: #FAD0B7;
+
+}

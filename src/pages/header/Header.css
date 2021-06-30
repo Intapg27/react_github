@@ -1,0 +1,31 @@
+.nombreyfoto p{
+    font-weight: 800;
+    background-color: #A4542C;
+    color: #FAD0B7;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.foto img{
+    max-width: 250px;
+    border-radius: 100%;
+    border: 5px solid #A4542C;
+    margin: 20px;
+}
+
+
+.foto,
+.nombre{
+    padding: 20px;
+    text-align: center;
+
+}
+
+.nombreyfoto{
+    flex-direction: column;
+    display: flex;
+}
+

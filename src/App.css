@@ -1,0 +1,7 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    background-image: url(./Componentes/images/estefondo.png);
+    background-size: cover;
+    padding: 20px;
+}
